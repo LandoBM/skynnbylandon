@@ -1,0 +1,27 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "back end of skynnbylandon",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LandoBM/skynnbylandon.git"
+  },
+  "author": "Landon Murray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LandoBM/skynnbylandon/issues"
+  },
+  "homepage": "https://github.com/LandoBM/skynnbylandon#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  }
+}
