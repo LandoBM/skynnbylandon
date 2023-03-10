@@ -43,7 +43,7 @@
   ```
   
   ## Installation
-  To insatll pplication, in your terminal `npm run seed`, then `npm start`. You can then you Insomnia or Postman to get routes. 
+  To insatll pplication, in your terminal `npm run seed`, then `npm start`. You can then use Insomnia or Postman to get routes. 
   
   The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Postman:
   ![In Postman, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/GET-ORM.gif)
